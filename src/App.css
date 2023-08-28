@@ -113,14 +113,14 @@ form button {
   
 }
 .first_heading{
-  border: 1px solid red;
+ 
   
 
 
   text-align: left;
 }
 .right_side{
-  border: 2px solid red;
+  
  
   
   margin: auto;
@@ -139,7 +139,7 @@ form button {
 
 
 .right_side>div{
-  border: 1px solid magenta;
+ 
   height:200px;
   width:200px;
   background-color: #FF5209;
@@ -176,9 +176,7 @@ form button {
   justify-content: end;
  margin-top: 40px;
 }
-.second_container{
-  border: 1px solid crimson;
-}
+
 .select{
   display: flex;
   align-items: center;
